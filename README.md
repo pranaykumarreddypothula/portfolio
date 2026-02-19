@@ -36,7 +36,7 @@ This is my personal portfolio website built to showcase my skills, projects, and
 ---
 
 ## 📬 Contact Me
-- 📧 Email: pranay@example.com  
+- 📧 Email: pranaykumarreddypothula@gmail.com  
 - 🐙 GitHub: https://github.com/pranaykumarreddypothula  
 
 ---
